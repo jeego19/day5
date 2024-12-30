@@ -1,0 +1,22 @@
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 130px;
+}
+.boxs{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.box{
+    margin-top: 100px;
+    background-color:orangered;
+    color: white;
+    width:400px ;
+    height: 300px;
+    border-radius: 20px;
+}
+.boxs .box h1,h3,p{
+    text-align: center;
+}
